@@ -1,0 +1,23 @@
+   <div class=" grid md:grid-cols-3  gap-4 mx-20 mt-5 h-96 overflow-x-clip sm:grid-cols-2">
+
+        <div class=" col-span-2  row-span-2 rounded bg-cover " style="background-image: url('public/images/19682.jpg');">
+            <div class="flex flex-col justify-center items-center bg-black h-full w-full p-5 opacity-70 rounded text-white">
+                <h1 class="font-black text-2xl justify-center">Grid System in Tailwind CSS</h1>
+            <p>Easily and Cool</p>
+
+            </div>            
+        </div>
+        <div class="rounded bg-cover " style="background-image: url('public/images/SL-103020-37400-06.jpg');">
+            <div class="bg-black h-full w-full p-5 opacity-70 text-white">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+
+            </div>            
+        </div>
+        <div class="  rounded bg-cover " style="background-image: url('public/images/v617batch2-kul-05-technology.jpg');">
+            <div class="bg-black h-full w-full p-5 opacity-70 text-white">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+
+            </div>            
+        </div>
+   </div>
+
