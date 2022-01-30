@@ -1,3 +1,15 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+    @font-face{
+        font-family: 'Rubik';
+        src: url('/src/fonts/RubikBeastly-Regular.woff2') format('woff2');
+    }
+    @font-face{
+        font-family: 'super';
+        src: url('/src/fonts/supermercadoone-regular-webfont.woff') format('woff2');
+    }
+
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+
+
